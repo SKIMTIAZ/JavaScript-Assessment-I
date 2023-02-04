@@ -9,13 +9,13 @@
 [x] All of the above
 
 
-What is the difference between spread operator and rest operator in JavaScript?
+#### 2. What is the difference between spread operator and rest operator in JavaScript?
 
-A. The spread operator is used to expand an array into its elements, while the rest operator is used to gather multiple elements into an array.
-The spread operator is used to gather multiple elements into an array, while the rest operator is used to expand an array into its elements.
-The spread and rest operators are interchangeable and have the same purpose.
-Neither the spread nor the rest operator is used for array manipulation.
-Correct answer: A. The spread operator is used to expand an array into its elements, while the rest operator is used to gather multiple elements into an array.
+[x] The spread operator is used to expand an array into its elements, while the rest operator is used to gather multiple elements into an array.
+[ ] The spread operator is used to gather multiple elements into an array, while the rest operator is used to expand an array into its elements.
+[ ] The spread and rest operators are interchangeable and have the same purpose.
+[ ] Neither the spread nor the rest operator is used for array manipulation.
+
 
 What is the best way to handle errors in JavaScript when making API calls?
 
