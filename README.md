@@ -1,6 +1,7 @@
 # JavaScript Assessment 1
 
 ## Introduction to Career Skills in JavaSccript
+
 #### 1. Which of the following is a way to handle asynchronous behavior in JavaScript?
 
 [ ] Using callbacks
@@ -15,6 +16,10 @@
 [ ] The spread operator is used to gather multiple elements into an array, while the rest operator is used to expand an array into its elements.
 [ ] The spread and rest operators are interchangeable and have the same purpose.
 [ ] Neither the spread nor the rest operator is used for array manipulation.
+
+
+#### What is the difference between spread operator and rest operator in JavaScript?
+main
 
 
 What is the best way to handle errors in JavaScript when making API calls?
