@@ -1,6 +1,7 @@
 # JavaScript Assessment 1
 
 ## Introduction to Career Skills in JavaSccript
+
 #### 1. Which of the following is a way to handle asynchronous behavior in JavaScript?
 
 [ ] Using callbacks
@@ -9,7 +10,7 @@
 [x] All of the above
 
 
-What is the difference between spread operator and rest operator in JavaScript?
+#### What is the difference between spread operator and rest operator in JavaScript?
 
 A. The spread operator is used to expand an array into its elements, while the rest operator is used to gather multiple elements into an array.
 The spread operator is used to gather multiple elements into an array, while the rest operator is used to expand an array into its elements.
